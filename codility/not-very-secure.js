@@ -3,8 +3,8 @@
 function alphanumeric (string) {
     if (/^[a-z0-9]+$/i.test(string)) {
         return true; 
-    } else {
-        return false;
+    } else {   
+        return false; 2241797895
     }
 }
 
