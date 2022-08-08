@@ -1,7 +1,7 @@
 # coding challenges 
 This repo contains a list of different coding challenges from different sites
 
-# [Domain Name](#domain-name)
+# [Domain Name](https://github.com/DoudGaya/coding-challenges/blob/main/codility/domain.js)
 ## [Domain Name](https://www.codewars.com/kata/domain-name/)
 Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. For example:
 
