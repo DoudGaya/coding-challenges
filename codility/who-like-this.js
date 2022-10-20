@@ -16,4 +16,4 @@ const who = function(names) {
 }
 
 
-console.log(who(['Mustapha', 'Abdulrahman', 'salim', 'idris', 'salma']))
+console.log(who(['Mustapha', 'Abdulrahman', 'salim', 'idris', 'amena', 'salma']))

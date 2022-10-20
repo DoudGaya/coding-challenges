@@ -8,6 +8,4 @@ function alphanumeric (string) {
     }
 }
 
-
-
-console.log(alphanumeric('abc123_'))
+console.log(alphanumeric('abc123'))
